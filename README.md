@@ -8,10 +8,15 @@
 
 ## Technologies Used
 
-* HTML, CSS & JavaScript
+* HTML
+* CSS
+* JavaScript
+* jQuery
+* Moment.js
+* Bootstrap
 
 ## Link of Deployed Application
 
-
+https://faizila.github.io/Work-Day-Scheduler/
 
 ## Screenshots of Deployed Application
