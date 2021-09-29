@@ -8,9 +8,9 @@
 
 * Top center of the page displays current day, date and time.
 
-*Each time block is color coded to indicate past(gray), present(red), and future(green) time.
+* Each time block is color coded to indicate past (gray), present (red), and future (green) time.
 
-*Each time block has a text area and a save button next to it, where users can save their schedule for the day.
+* Each time block has a text area and a save button next to it, where users can save their schedule for the day.
 
 * Once user enters the information and clicks the save button, the information will get stored in their local storage.
 
