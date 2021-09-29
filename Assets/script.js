@@ -5,11 +5,11 @@ $(document).ready(function () {
 
   // Save Button event listener
   $(".saveBtn").on("click", function () {
-    //get nearby values.
+    //get nearby values
     var text = $(this).siblings(".description").val();
     var time = $(this).parent().attr("id");
 
-    //save text in local storage.
+    //save text in local storage
     localStorage.setItem(time, text);
   });
 

@@ -4,6 +4,12 @@ body {
   line-height: 1;
 }
 
+.display-3 {
+  font-family: 'Gemunu Libre', sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+}
+
 textarea {
   background: transparent;
   border: none;
@@ -15,7 +21,7 @@ textarea {
 
 .jumbotron {
   text-align: center;
-  background-color: rgb(90, 98, 119);
+  background-color: rgb(123, 144, 197);
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
