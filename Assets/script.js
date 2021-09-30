@@ -53,3 +53,4 @@ $(document).ready(function () {
  $("#five .description").val(localStorage.getItem("five"));
 
 });
+$('#currentDay').text(moment().format('dddd, MMMM Do'));
