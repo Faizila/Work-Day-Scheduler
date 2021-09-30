@@ -32,3 +32,7 @@
 https://faizila.github.io/Work-Day-Scheduler/
 
 ## Screenshots of Deployed Application
+
+![screenshot1](https://user-images.githubusercontent.com/78191579/135520443-a30220b9-e77c-4427-9ef4-2c1329fdc8fd.jpg)
+![screenshot2](https://user-images.githubusercontent.com/78191579/135520460-aba6e762-2b76-4513-b241-63efecbcbb42.jpg)
+
